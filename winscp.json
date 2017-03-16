@@ -1,5 +1,6 @@
 {
     "version": "5.9.3",
     "url": "https://media.githubusercontent.com/media/AStupidBear/PortableSoftware/master/WinSCP-5.9.3.zip",
+    "extract_dir": "WinSCP-5.9.3",
     "bin": "WinScp.exe"
 }
