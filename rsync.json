@@ -1,0 +1,6 @@
+{
+    "version": "3.0.9",
+    "url": "https://media.githubusercontent.com/media/AStupidBear/PortableApps/master/Rsync.zip",
+    "extract_dir": "Rsync",
+    "bin": "bin/rsync.exe"
+}
