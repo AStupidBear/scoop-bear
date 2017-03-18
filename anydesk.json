@@ -1,6 +1,5 @@
 {
     "version": "1.0",
     "url": "https://download.anydesk.com/AnyDesk.exe?_ga=1.80847444.2109308718.1489761848",
-    "bin": "AnyDesk.exe",
     "shortcuts": [["AnyDesk.exe", "AnyDesk"]]
 }
