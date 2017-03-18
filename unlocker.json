@@ -2,5 +2,5 @@
     "version": "1.0",
     "url": "https://sourceforge.net/projects/bearapps/files/UnlockerPortable.zip",
     "extract_dir": "UnlockerPortable",
-    "bin": ["UnlockerPortable.exe", "unlocker"]
+    "bin": [["UnlockerPortable.exe", "unlocker"]]
 }
