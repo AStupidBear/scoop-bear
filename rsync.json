@@ -1,6 +1,6 @@
 {
     "version": "3.0.9",
-    "url": "https://master.dl.sourceforge.net/projects/bearapps/Rsync.zip",
+    "url": "https://sourceforge.net/projects/bearapps/files/Rsync.zip",
     "extract_dir": "Rsync",
     "bin": "bin/rsync.exe"
 }

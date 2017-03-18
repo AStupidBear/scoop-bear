@@ -1,6 +1,6 @@
 {
     "version": "2016.10",
-    "url": "https://master.dl.sourceforge.net/projects/bearapps/ScreenGif.zip",
+    "url": "https://sourceforge.net/projects/bearapps/files/ScreenGif.zip",
     "extract_dir": "ScreenGif",
     "shortcuts": [["ScreenGif.exe", "ScreenGif"]]
 }

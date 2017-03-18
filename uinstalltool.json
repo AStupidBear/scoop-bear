@@ -1,6 +1,6 @@
 {
     "version": "3.3.1",
-    "url": "https://master.dl.sourceforge.net/projects/bearapps/UninstallTool.zip",
+    "url": "https://sourceforge.net/projects/bearapps/files/UninstallTool.zip",
     "extract_dir": "UninstallTool",
     "shortcuts": [["UninstallTool.exe", "UninstallTool"]]
 }

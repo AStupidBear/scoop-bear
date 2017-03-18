@@ -1,6 +1,6 @@
 {
     "version": "3.0",
-    "url": "https://master.dl.sourceforge.net/projects/bearapps/Shadowsocks-3.0.zip",
+    "url": "https://sourceforge.net/projects/bearapps/files/Shadowsocks-3.0.zip",
     "extract_dir": "Shadowsocks-3.0",
     "shortcuts": [["Shadowsocks.exe", "Shadowsocks"]]
 }
