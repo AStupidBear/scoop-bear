@@ -1,6 +1,6 @@
 {
     "version": "6.9.031",
-    "url": "https://master.dl.sourceforge.net/projects/bearapps/Xming.zip",
+    "url": "https://sourceforge.net/projects/bearapps/Xming.zip",
     "extract_dir": "Xming",
     "bin": ["XLaunch.exe", "xming"]
 }
