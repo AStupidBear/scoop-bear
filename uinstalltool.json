@@ -1,0 +1,6 @@
+{
+    "version": "3.3.1",
+    "url": "https://media.githubusercontent.com/media/AStupidBear/PortableApps/master/UninstallTool.zip",
+    "extract_dir": "UninstallTool",
+    "shortcuts": [["UninstallTool.exe", "UninstallTool"]]
+}

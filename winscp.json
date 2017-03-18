@@ -1,5 +1,5 @@
 {
     "version": "5.9.4",
     "url": "https://master.dl.sourceforge.net/project/winscp/WinSCP/5.9.4/WinSCP-5.9.4-Portable.zip",
-    "bin": "WinScp.exe"
+    "shortcuts": [["WinScp.exe", "WinSCP"]]
 }

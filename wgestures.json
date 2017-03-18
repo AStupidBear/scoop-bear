@@ -1,0 +1,6 @@
+{
+    "version": "1.8.3.0",
+    "url": "https://media.githubusercontent.com/media/AStupidBear/PortableApps/master/WGestures.zip",
+    "extract_dir": "WGestures",
+    "shortcuts": [["WGestures.exe", "WGestures"]]
+}

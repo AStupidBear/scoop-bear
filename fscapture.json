@@ -1,0 +1,6 @@
+{
+    "version": "8.4",
+    "url": "https://media.githubusercontent.com/media/AStupidBear/PortableApps/master/FSCapture.zip",
+    "extract_dir": "FSCapture",
+    "bin": "FSCapture.exe"
+}

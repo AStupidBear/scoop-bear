@@ -2,5 +2,5 @@
     "version": "1.0",
     "url": "https://media.githubusercontent.com/media/AStupidBear/PortableApps/master/DimScreen.zip",
     "extract_dir": "DimScreen",
-    "bin": "DimScreen.exe"
+    "shortcuts": [["DimScreen.exe", "DimScreen"]]
 }

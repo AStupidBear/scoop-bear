@@ -2,5 +2,5 @@
     "version": "2437",
     "url": "http://file0.splayer.org/splayer.7z?2437.7z",
     "extract_dir": "splayer",
-    "bin": "splayer.exe"
+    "shortcuts": [["splayer.exe", "SPlayer"]]
 }
