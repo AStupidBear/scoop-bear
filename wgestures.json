@@ -1,6 +1,6 @@
 {
     "version": "1.8.3.0",
-    "url": "https://master.dl.sourceforge.net/projects/bearapps/WGestures.zip",
+    "url": "https://sourceforge.net/projects/bearapps/WGestures.zip",
     "extract_dir": "WGestures",
     "shortcuts": [["WGestures.exe", "WGestures"]]
 }
