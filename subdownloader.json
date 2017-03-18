@@ -1,6 +1,6 @@
 {
     "version": "1.0",
-    "url": "https://media.githubusercontent.com/media/AStupidBear/PortableApps/master/SubDownloader.zip",
+    "url": "https://master.dl.sourceforge.net/projects/bearapps/SubDownloader.zip",
     "extract_dir": "SubDownloader",
     "shortcuts": [["SubDownloader.exe", "SubDownloader"]]
 }

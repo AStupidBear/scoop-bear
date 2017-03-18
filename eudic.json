@@ -1,6 +1,6 @@
 {
     "version": "1.0",
-    "url": "https://media.githubusercontent.com/media/AStupidBear/PortableApps/master/Eudic.zip",
+    "url": "https://master.dl.sourceforge.net/projects/bearapps/Eudic.zip",
     "extract_dir": "Eudic",
     "shortcuts": [["eudic.exe", "Eudic"]]
 }

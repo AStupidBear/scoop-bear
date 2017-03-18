@@ -1,6 +1,6 @@
 {
     "version": "1.0",
-    "url": "https://media.githubusercontent.com/media/AStupidBear/PortableApps/master/UnlockerPortable.zip",
+    "url": "https://master.dl.sourceforge.net/projects/bearapps/UnlockerPortable.zip",
     "extract_dir": "UnlockerPortable",
     "bin": ["UnlockerPortable.exe", "unlocker"]
 }

@@ -1,6 +1,6 @@
 {
     "version": "1.0",
-    "url": "https://media.githubusercontent.com/media/AStupidBear/PortableApps/master/Bat_To_Exe_Converter.zip",
+    "url": "https://master.dl.sourceforge.net/projects/bearapps/Bat_To_Exe_Converter.zip",
     "extract_dir": "Bat_To_Exe_Converter",
     "shortcuts": [["Portable/Bat_To_Exe_Converter_(x64).exe", "Bat2Exe"]]
 }
