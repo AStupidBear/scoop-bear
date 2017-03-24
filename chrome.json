@@ -1,5 +1,6 @@
 {
     "version": "57.0.2987.110",
     "url": "https://sourceforge.net/projects/portableapps/files/Google%20Chrome%20Portable/GoogleChromePortable_57.0.2987.110_online.paf.exe",
-    "installer": {"file": "GoogleChromePortable_57.0.2987.110_online.paf.exe"}
+    "installer": {"file": "GoogleChromePortable_57.0.2987.110_online.paf.exe"},
+    "shortcuts": [["GoogleChromePortable.exe", "Chrome"]]
 }
