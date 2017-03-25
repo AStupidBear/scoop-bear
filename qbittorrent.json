@@ -4,8 +4,12 @@
     "version": "3.3.11",
     "architecture": {
         "64bit": {
-            "url": "https://sourceforge.net/projects/qbittorrent/files/qbittorrent-win32/qbittorrent-3.3.11/qbittorrent_3.3.11_x64_setup.exe/download#dl.7z",
+            "url": "https://sourceforge.net/projects/qbittorrent/files/qbittorrent-win32/qbittorrent-3.3.11/qbittorrent_3.3.11_x64_setup.exe#dl.7z",
             "hash": "1d914d96d0eaf60d35c3ba9e4f5005e7ebce54789714258bc5127882ae4dab20"
+        },
+        "32bit": {
+            "url": "https://sourceforge.net/projects/qbittorrent/files/qbittorrent-win32/qbittorrent-3.3.11/qbittorrent_3.3.11_setup.exe#dl.7z",
+            "hash": "64e94ccce482c8b0c7e044f3a582cf708591a4877e8e10221231a0787f4d0949"
         }
     },
     "bin": "qbittorrent.exe",
