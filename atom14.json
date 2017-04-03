@@ -3,7 +3,6 @@
     "version": "1.14.4",
     "license": "MIT",
     "url": "https://github.com/atom/atom/releases/download/v1.14.4/atom-windows.zip",
-    "hash": "09567088984ad55e444da60136b7ec9250bef112196110bf67cd66967e8cf806",
     "extract_dir": "Atom",
     "bin": [
         "atom.exe",
