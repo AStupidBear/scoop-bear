@@ -1,0 +1,7 @@
+{
+    "version": "0.1.0",
+    "url": "https://github.com/nteract/nteract/releases/download/v0.1.0/nteract-0.1.0-win.zip",
+    "extract_dir": "win-unpacked",
+    "bin": "nteract.exe",
+    "shortcuts": [["nteract.exe", "nteract"]]
+}
