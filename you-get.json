@@ -1,0 +1,6 @@
+{
+    "version": "0.4.715",
+    "url": "https://github.com/soimort/you-get/releases/download/v0.4.715/you-get-0.4.715-win32-full.7z",
+    "extract_dir": "you-get",
+    "bin": "you-get.exe"
+}
