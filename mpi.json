@@ -1,0 +1,8 @@
+{
+    "version": "8",
+    "url": "https://sourceforge.net/projects/bearapps/files/MPI.zip",
+    "extract_dir": "MPI",
+    "env_add_path": ["/bin"],
+    "env_set": {"MSMPI_BIN": "$dir/bin"},
+    "post_install" : "cp $dir/msmpi.dll C:/Windows/System32/msmpi.dll; cp $dir/msmpires.dll C:/Windows/System32/msmpires.dll; cp $dir/msmpi.dll C:/Windows/syswow64/msmpi.dll; cp $dir/msmpires.dll C:/Windows/syswow64/msmpires.dll"
+}
