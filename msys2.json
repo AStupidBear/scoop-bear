@@ -1,7 +1,7 @@
 {
     "homepage": "http://msys2.github.io",
     "##":"64-bit version (able to build both 32-bit and 64-bit packages)",
-    "version": "2015.09.16",
+    "version": "2016.10.25",
     "url":  "https://sourceforge.net/projects/msys2/files/Base/x86_64/msys2-base-x86_64-20161025.tar.xz",
     "bin": [
         ["msys64\\mingw32_shell.bat", "mingw32"],
