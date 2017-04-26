@@ -4,5 +4,5 @@
     "version": "2016.10.25",
     "url": "https://sourceforge.net/projects/msys2/files/Base/x86_64/msys2-base-x86_64-20161025.tar.xz",
     "extract_dir": "msys64",
-    "bin": [["msys64\\msys2_shell.bat", "msys2"]]
+    "bin": [["msys2_shell.bat", "msys2"]]
 }
