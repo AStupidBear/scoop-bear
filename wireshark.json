@@ -1,5 +1,5 @@
 {
-    "version": "2.2.5",
+    "version": "2.2.7",
     "url": "https://2.na.dl.wireshark.org/win32/WiresharkPortable_2.2.7.paf.exe#/dl.7z",
     "shortcuts": [["WiresharkPortable.exe", "WiresharkPortable"]]
 }
