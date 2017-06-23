@@ -1,0 +1,30 @@
+{
+    "homepage": "https://conda.io/miniconda.html",
+    "version": "4.3.21",
+    "architecture": {
+        "64bit": {
+            "url": "https://repo.continuum.io/miniconda/Miniconda2-latest-Windows-x86_64.exe"
+        },
+        "32bit": {
+            "url": "https://repo.continuum.io/miniconda/Miniconda2-latest-Windows-x86.exe"
+        }
+    },
+    "installer": {
+        "args": [
+            "/S",
+            "/NoRegistry=1",
+            "/D=$dir"
+        ]
+    },
+    "bin": [
+        "python.exe",
+        "pythonw.exe",
+        [
+            "python.exe",
+            "python2"
+        ]
+    ],
+    "env_add_path": [
+        "scripts"
+    ]
+}
