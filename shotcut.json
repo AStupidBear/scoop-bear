@@ -1,0 +1,6 @@
+{
+    "version": "17.06",
+    "url": "https://github.com/mltframework/shotcut/releases/download/v17.06/shotcut-win64-170601.zip",
+    "extract_dir": "Shotcut",
+    "shortcuts": [["shotcut.exe", "shotcut"]]
+}
