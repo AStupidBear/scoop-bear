@@ -1,6 +1,13 @@
 {
     "version": "0.6",
-    "url": "https://julialang-s3.julialang.org/bin/winnt/x64/0.6/julia-0.6-latest-win64.exe#/dl.7z",
+    "architecture": {
+        "64bit": {
+            "url": "https://s3.amazonaws.com/julialang/bin/winnt/x64/0.6/julia-0.6.0-win64.exe#/dl.7z"
+        },
+        "32bit": {
+            "url": "https://s3.amazonaws.com/julialang/bin/winnt/x86/0.6/julia-0.6.0-win32.exe#/dl.7z"
+        }
+    },
     "pre_install": "7z x -o\"$dir\" $dir\\julia-installer.exe",
     "post_install": "rm $dir\\julia-installer.exe",
     "bin": [
