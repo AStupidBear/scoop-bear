@@ -1,6 +1,6 @@
 {
-    "version": "1.18.0",
-    "url": "https://github.com/atom/atom/releases/download/v1.18.0/atom-windows.zip",
+    "version": "1.21.0",
+    "url": "https://github.com/atom/atom/releases/download/v1.21.0/atom-windows.zip",
     "extract_dir": "Atom",
     "bin": ["\\resources\\cli\\atom.cmd", "\\resources\\app\\apm\\bin\\apm.cmd"],
     "shortcuts" : [[ "atom.exe" , "Atom"]]
