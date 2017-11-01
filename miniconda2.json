@@ -17,8 +17,14 @@
         ]
     },
     "bin": [
-        "python.exe",
-        "pythonw.exe",
+        [
+            "python.exe",
+            "python"
+        ],
+        [
+            "pythonw.exe",
+            "pythonw"
+        ],
         [
             "python.exe",
             "python2"
