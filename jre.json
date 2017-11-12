@@ -3,5 +3,8 @@
     "version": "8u144-b01",
     "url": "https://sourceforge.net/projects/bearapps/files/jre-8u144-windows-x64.tar.gz",
     "extract_dir": "jre1.8.0_144",
-    "env_add_path": "bin"
+    "env_add_path": "bin",
+    "env_set": {
+        "JRE_HOME": "$dir"
+    }
 }
