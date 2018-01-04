@@ -1,0 +1,5 @@
+{
+    "version": "1.0",
+    "url": "https://sourceforge.net/projects/bearapps/files/scvpn.exe",
+    "installer": {"file": "scvpn.exe"}
+}
