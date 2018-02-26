@@ -1,6 +1,0 @@
-{
-    "version": "0.3.1",
-    "url": "https://bintray.com/artifact/download/zealdocs/windows/zeal-portable-0.3.1-windows-x86.7z",
-    "extract_dir": "zeal-portable-0.3.1-windows-x86",
-    "shortcuts": [["zeal.exe", "Zeal"]]
-}
