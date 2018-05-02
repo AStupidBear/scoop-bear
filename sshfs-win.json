@@ -7,7 +7,7 @@
     "homepage": "",
     "hash": "",
     "bin": [
-        "SSHFS-Win/sshfs.exe"
+        "SSHFS-Win/bin/sshfs.exe"
     ],
     "installer": {
         "file": "sshfs-win-2.7.17334-x64.msi"
