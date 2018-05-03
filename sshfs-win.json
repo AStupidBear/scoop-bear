@@ -1,0 +1,13 @@
+﻿{
+    "version":  "2.7.17334",
+    "license":  "",
+    "extract_dir":  "",
+    "url":  "https://github.com/billziss-gh/sshfs-win/releases/download/v2.7.17334/sshfs-win-2.7.17334-x64.msi",
+    "depends":  "",
+    "homepage":  "",
+    "hash":  "",
+    "bin":  "",
+    "installer":{
+        "file": "sshfs-win-2.7.17334-x64.msi"
+    }
+}
