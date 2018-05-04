@@ -1,0 +1,16 @@
+﻿{
+    "version": "18.90.0100",
+    "license": "",
+    "extract_dir": "",
+    "url": "https://www.xyplorer.com/download/xyplorer_full_noinstall.zip",
+    "depends": "",
+    "homepage": "",
+    "hash": "",
+    "bin": "",
+    "shortcuts": [
+        [
+            "XYPlorer.exe",
+            "XYPlorer"
+        ]
+    ]
+}
