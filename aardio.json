@@ -1,5 +1,5 @@
 {
     "version": "13.30",
-    "url": "http://download.aardio.com/aardio/aardio.7z",
+    "url": "http://ide.update.aardio.com/releases/aardio.7z",
     "shortcuts": [["aardio.exe", "aardio"]]
 }
