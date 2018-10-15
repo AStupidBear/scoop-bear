@@ -1,6 +1,6 @@
 {
     "version": "3.2.1",
-    "url": "https://kjkpub.s3.amazonaws.com/sumatrapdf/prerel/SumatraPDF-prerelease-10740-64.exe",
-    "shortcuts": [["SumatraPDF-prerelease-10740-64.exe", "SumatraPDF"]],
+    "url": "https://kjkpub.s3.amazonaws.com/sumatrapdf/prerel/SumatraPDF-prerelease-11040-64.exe#SumatraPDF.exe",
+    "shortcuts": [["SumatraPDF.exe", "SumatraPDF"]],
     "persist": ["SumatraPDF-settings.txt"]
 }
