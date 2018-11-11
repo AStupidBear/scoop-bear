@@ -20,8 +20,8 @@
         "args": [
             "/S",
             "/InstallationType=JustMe",
-            "/RegisterPython=0",
-            "/AddToPath=0",
+            "/RegisterPython=1",
+            "/AddToPath=1",
             "/D=$dir"
         ]
     },
