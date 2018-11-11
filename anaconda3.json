@@ -6,9 +6,7 @@
         "url": "https://repo.continuum.io/archive",
         "re": "Anaconda3-([\\d.]+)-Windows"
     },
-    "pre_install": "
-        Write-Host 'Installing Anaconda 3. This can take up to 30 minutes on an HDD.' -ForegroundColor Magenta
-    ",
+    "pre_install": "Write-Host 'Installing Anaconda 3. This can take up to 30 minutes on an HDD.' -ForegroundColor Magenta",
     "installer": {
         "file": "anaconda3-installer.exe",
         "args": [
