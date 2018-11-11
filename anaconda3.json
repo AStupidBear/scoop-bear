@@ -9,7 +9,7 @@
     "bin": [
         [
             "python.exe",
-            "python3"
+            "python"
         ]
     ],
     "pre_install": "
@@ -21,7 +21,7 @@
             "/S",
             "/InstallationType=JustMe",
             "/RegisterPython=0",
-            "/AddToPath=1",
+            "/AddToPath=0",
             "/D=$dir"
         ]
     },
