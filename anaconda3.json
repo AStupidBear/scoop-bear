@@ -23,7 +23,7 @@
             "/S"
         ]
     },
-    "env_add_path": ["", "Library/mingw-w64/bin", "Library/usr/bin", "Library/bin", "Scripts"],
+    "env_add_path": [".", "Library/mingw-w64/bin", "Library/usr/bin", "Library/bin", "Scripts"],
     "architecture": {
         "64bit": {
             "url": "https://repo.continuum.io/archive/Anaconda3-5.2.0-Windows-x86_64.exe#/anaconda3-installer.exe",
