@@ -1,5 +1,6 @@
 {
     "version": "6.28",
-    "url": "https://sourceforge.net/projects/bearapps/files/Internet Download.Manager 6.28 build1_setup.exe",
-    "installer": {"file": "Internet Download.Manager 6.28 build1_setup.exe"}
+    "url": "https://sourceforge.net/projects/bearapps/files/IDM6.28.1.7z",
+    "extract_dir": "IDM",
+    "shortcuts": [["IDMan.exe", "IDM" ]]
 }
