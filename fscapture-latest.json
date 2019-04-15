@@ -1,6 +1,0 @@
-{
-    "version": "8.4",
-    "url": "https://sourceforge.net/projects/bearapps/files/FSCapture.zip",
-    "extract_dir": "FSCapture",
-    "shortcuts": [["FSCapture.exe", "FSCapture"]]
-}
