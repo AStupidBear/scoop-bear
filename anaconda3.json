@@ -17,20 +17,18 @@
     ],
     "pre_install": "Write-Host 'Installing Anaconda 3. This can take up to 30 minutes on an HDD.' -ForegroundColor Magenta",
     "installer": {
-        "file": "anaconda3-installer.exe",
         "args": [
             "/S",
             "/InstallationType=JustMe",
-            "/RegisterPython=0",
             "/AddToPath=1",
+            "/RegisterPython=0",
+            "/NoRegistry=1",
             "/D=$dir"
         ]
     },
     "uninstaller": {
         "file": "Uninstall-Anaconda3.exe",
-        "args": [
-            "/S"
-        ]
+        "args": "/S"
     },
     "persist": "envs",
     "env_add_path": [
