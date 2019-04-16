@@ -1,5 +1,6 @@
 {
-    "version": "5.2.0",
+    "version": "2019.03",
+    "description": "The most popular Python distribution for data science.",
     "license": "BSD-3-Clause",
     "homepage": "https://www.anaconda.com/",
     "checkver": {
@@ -32,29 +33,38 @@
         ]
     },
     "persist": "envs",
-    "env_add_path": "Scripts",
+    "env_add_path": [
+        "Library/mingw-w64/bin",
+        "Library/usr/bin",
+        "Library/bin",
+        "Scripts"
+    ],
     "architecture": {
         "64bit": {
-            "url": "https://repo.continuum.io/archive/Anaconda3-5.2.0-Windows-x86_64.exe#/anaconda3-installer.exe",
-            "hash": "md5:62244c0382b8142743622fdc3526eda7"
+            "url": "https://repo.continuum.io/archive/Anaconda3-2019.03-Windows-x86_64.exe",
+            "hash": "d2c90169879f40816eac91bec585a1f9f788016fe0a8215ca066299e4b6531b9"
         },
         "32bit": {
-            "url": "https://repo.continuum.io/archive/Anaconda3-5.2.0-Windows-x86.exe#/anaconda3-installer.exe",
-            "hash": "md5:285387e7b6ea81edba98c011922e235a"
+            "url": "https://repo.continuum.io/archive/Anaconda3-2019.03-Windows-x86.exe",
+            "hash": "03d94f55c4c5e1187382ff414c78e66244893170fa7aacd0deb71536b7a925e5"
         }
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://repo.continuum.io/archive/Anaconda3-$version-Windows-x86_64.exe#/anaconda3-installer.exe"
+                "url": "https://repo.continuum.io/archive/Anaconda3-$version-Windows-x86_64.exe",
+                "hash": {
+                    "url": "http://docs.anaconda.com/anaconda/install/hashes/Anaconda3-$version-Windows-x86_64.exe-hash/",
+                    "find": "([A-Fa-f\\d]{64})"
+                }
             },
             "32bit": {
-                "url": "https://repo.continuum.io/archive/Anaconda3-$version-Windows-x86.exe#/anaconda3-installer.exe"
+                "url": "https://repo.continuum.io/archive/Anaconda3-$version-Windows-x86.exe",
+                "hash": {
+                    "url": "http://docs.anaconda.com/anaconda/install/hashes/Anaconda3-$version-Windows-x86.exe-hash/",
+                    "find": "([A-Fa-f\\d]{64})"
+                }
             }
-        },
-        "hash": {
-            "url": "$baseurl",
-            "find": "$basename<.*\\s+<.*\\s+<.*\\s+<td>([a-fA-F0-9]{32})</td>"
         }
     }
 }
