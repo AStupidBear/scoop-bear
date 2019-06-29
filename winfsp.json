@@ -1,12 +1,6 @@
 ﻿{
     "version":  "1.2.17346",
-    "license":  "",
-    "extract_dir":  "",
     "url":  "https://github.com/billziss-gh/winfsp/releases/download/v1.2POST1/winfsp-1.2.17346.msi",
-    "depends":  "",
-    "homepage":  "",
-    "hash":  "",
-    "bin":  "",
     "installer": {
         "file": "winfsp-1.2.17346.msi"
     }
