@@ -1,7 +1,4 @@
 ﻿{
     "version": "3.0",
-    "url": "https://sourceforge.net/projects/bearapps/files/HDFView-3.1.0.msi",
-    "installer": {
-        "file": "HDFView-3.1.0.msi"
-    }
+    "url": "https://sourceforge.net/projects/bearapps/files/HDFView-3.1.0.msi"
 }
