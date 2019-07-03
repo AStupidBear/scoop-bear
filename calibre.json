@@ -1,6 +1,0 @@
-{
-    "version": "2.83.0",
-    "url": "https://sourceforge.net/projects/bearapps/files/calibre-portable-2.83.0.7z",
-    "bin": "Calibre/ebook-convert.exe",
-    "shortcuts": [["calibre-portable.exe", "Calibre"]]
-}

@@ -1,6 +1,0 @@
-{
-    "version": "4.7.0",
-    "url": "https://sourceforge.net/projects/bearapps/files/ShadowsocksR-4.7.0.zip",
-    "extract_dir": "ShadowsocksR-4.7.0",
-    "shortcuts": [["ShadowsocksR-dotnet4.0.exe", "ShadowsocksR"]]
-}

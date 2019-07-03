@@ -1,5 +1,0 @@
-{
-    "version": "0.2.5.0",
-    "url": "https://github.com/lierdakil/pandoc-crossref/releases/download/v0.2.5.0/windows-ghc8-pandoc1-19.zip",
-    "bin": "pandoc-crossref.exe"
-}

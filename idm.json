@@ -1,6 +1,0 @@
-{
-    "version": "6.30.7",
-    "url": "https://sourceforge.net/projects/bearapps/files/IDM6.30.7.7z",
-    "extract_dir": "IDM",
-    "shortcuts": [["IDMan.exe", "IDM" ]]
-}

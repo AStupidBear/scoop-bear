@@ -1,6 +1,0 @@
-{
-    "version": "2.3",
-    "url": "http://rtmpdump.mplayerhq.hu/download/rtmpdump-2.3-windows.zip",
-    "extract_dir": "rtmpdump-2.3",
-    "bin": [["rtmpdump.exe", "rtmpdump"]]
-}

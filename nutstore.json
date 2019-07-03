@@ -1,5 +1,7 @@
 {
     "version": "3.4.4",
     "url": "https://www.jianguoyun.com/static/exe/installer/NutstoreWindowsInstaller.exe",
-    "installer": {"file": "NutstoreWindowsInstaller.exe"}
+    "installer": {
+        "file": "NutstoreWindowsInstaller.exe"
+    }
 }
