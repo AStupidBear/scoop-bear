@@ -14,7 +14,7 @@
             "extract_dir": "OpenSSH-Win64"
         }
     },
-    "env_add_path": "$dir",
+    "env_add_path": "",
     "post_install": [
         "powershell.exe -ExecutionPolicy Bypass -File $dir/install-sshd.ps1",
         "netsh advfirewall firewall add rule name=sshd dir=in action=allow protocol=TCP localport=22",
