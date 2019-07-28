@@ -1,6 +1,5 @@
 {
     "version":  "12.0.22",
-    "extract_dir":  "Navicat Premium 12",
     "url":  "https://sourceforge.net/projects/bearapps/files/Navicat_Premium_12.0.22.rar",
-    "shortcuts": [["navicat.exe", "Navicat"]]
+    "shortcuts": [["Navicat Premium 12/navicat.exe", "Navicat"]]
 }
