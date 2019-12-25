@@ -1,0 +1,6 @@
+{
+    "version": "3.2.11784",
+    "url": "https://kjkpubsf.sfo2.digitaloceanspaces.com/software/sumatrapdf/prerel/SumatraPDF-prerelease-11784-64.exe#/SumatraPDF.exe",
+    "shortcuts": [["SumatraPDF.exe", "SumatraPDF"]],
+    "persist": ["SumatraPDF-settings.txt"]
+}
