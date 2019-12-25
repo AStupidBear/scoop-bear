@@ -2,9 +2,9 @@
     "version": "1.8.4.0",
     "url": "https://sourceforge.net/projects/bearapps/files/Install WGestures.zip",
     "installer": {
-        "script": "Invoke-ExternalCommand msiexec -ArgumentList @('/i', \"$dir\\Install WGestures.msi\", '/qn') -RunAs | Out-Null"
+        "script": "Start-Process -Wait msiexec \"/i `\"$dir\\Install WGestures.msi`\" /qn -Verb RunAs"
     },
     "uninstaller": {
-        "script": "Invoke-ExternalCommand msiexec -ArgumentList @('/x', \"$dir\\Install WGestures.msi\", '/qn') -RunAs | Out-Null"
+        "script": "Start-Process -Wait msiexec \"/x `\"$dir\\Install WGestures.msi`\" /qn -Verb RunAs"
     }
 }
