@@ -9,10 +9,10 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://repo.continuum.io/miniconda/Miniconda3-4.5.4-Windows-x86_64.exe",
+            "url": "https://repo.continuum.io/miniconda/Miniconda3-4.5.4-Windows-x86_64.exe"
         },
         "32bit": {
-            "url": "https://repo.continuum.io/miniconda/Miniconda3-4.5.4-Windows-x86.exe",
+            "url": "https://repo.continuum.io/miniconda/Miniconda3-4.5.4-Windows-x86.exe"
         }
     },
     "autoupdate": {
